@@ -6,7 +6,7 @@
 
 Back-end de um SaaS onde barbearias contratam a plataforma para digitalizar e centralizar sua gestão.
 
-O repositório está organizado como monorepo pensando em uma futura expansão para microsserviços. Por enquanto possui apenas o projeto principal na pasta `Core`.
+O repositório está organizado como monorepo pensando em uma futura expansão para microsserviços. Por enquanto possui apenas o projeto principal na pasta `BarbeariasCore`.
 
 ## Tecnologias
 
